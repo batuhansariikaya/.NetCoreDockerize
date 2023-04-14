@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sv5VYBmhw4Ee7hiZG3RU50SeveJPb34Ymr+aSyzR1OKazWOAIi+4qYI468Q16+u9/laqKAPjRO60+wUXzorJ6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Batuhan\\source\\repos\\DockerizeWebApplication\\DockerizeWebApplication\\DockerizeWebApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Batuhan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}

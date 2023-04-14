@@ -1,0 +1,7 @@
+C:\Users\Batuhan\source\repos\DockerizeWebApplication\DockerizeWebApplication\obj\Release\net6.0\PubTmp\Out\DockerizeWebApplication.exe
+C:\Users\Batuhan\source\repos\DockerizeWebApplication\DockerizeWebApplication\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Batuhan\source\repos\DockerizeWebApplication\DockerizeWebApplication\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Batuhan\source\repos\DockerizeWebApplication\DockerizeWebApplication\obj\Release\net6.0\PubTmp\Out\DockerizeWebApplication.dll
+C:\Users\Batuhan\source\repos\DockerizeWebApplication\DockerizeWebApplication\obj\Release\net6.0\PubTmp\Out\DockerizeWebApplication.deps.json
+C:\Users\Batuhan\source\repos\DockerizeWebApplication\DockerizeWebApplication\obj\Release\net6.0\PubTmp\Out\DockerizeWebApplication.runtimeconfig.json
+C:\Users\Batuhan\source\repos\DockerizeWebApplication\DockerizeWebApplication\obj\Release\net6.0\PubTmp\Out\DockerizeWebApplication.pdb
